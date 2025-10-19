@@ -1,6 +1,6 @@
 # java-calculator-precourse
 
-기능 목록
+## 기능 목록
 
 사용자 입력 및 출력 처리
 - 콘솔에서 문자열 입력 받기
